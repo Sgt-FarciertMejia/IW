@@ -228,6 +228,51 @@ Spear Phishing 
 
 # DAY 4
 
+The purpose of DCO is to halt adversary offensive initiative and sustain​ or regain friendly initiative.
+true
+
+_____ is a DCO mission where actions are taken external to the defended network.
+DCO-RA  
+
+DCO Operations are _____ and _____.
+threat specific and network agnostic  
+
+What products do CPTs provide to local defenders?
+Network maps, Risk Mitigation Plan, and Mission Defense Plan  
+
+DODIN CPTs may overlap with CCMD CPTs and Service CPTs.
+true
+
+How many intelligence disciplines are there?
+7
+
+Radar imagery is a subcategory of _____.
+GEOINT  
+
+The three subcategories of SIGINT are _____
+COMINT, ELINT, FISINT  
+
+__ involves the collection & processing of foreign communications passed by radio, wire, or other electromagnetic means.
+COMINT  
+
+OPELINT is concerned with the technical aspects of foreign non-communication emitters.
+false
+
+_____ is a category of intelligence derived from information collected and provided by human sources.
+HUMINT  
+
+Which organization provides CI/HUMINT support to Cyberspace Operations?
+DIA
+
+
+
+
+
+
+
+
+
+
 
 
 
