@@ -1,4 +1,4 @@
-* DAY 1 *
+# DAY 1 
 Q/A
 What are the five Operational Domains?
 Air, Land, Maritime, Space, Cyberspace
