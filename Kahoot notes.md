@@ -1,6 +1,4 @@
-Kahoot code nlt 08 saturady
-05887914
-06151097
+* DAY 1 *
 Q/A
 What are the five Operational Domains?
 Air, Land, Maritime, Space, Cyberspace
